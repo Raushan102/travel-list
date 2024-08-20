@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travel-list/static/css/main.d096840c.css",
+    "main.js": "/travel-list/static/js/main.e4969543.js",
+    "static/js/453.634db10d.chunk.js": "/travel-list/static/js/453.634db10d.chunk.js",
+    "static/media/pngtree-luggage-clipart-set-of-cartoon-suitcases-with-wheels-vector-png-image_11069105.png": "/travel-list/static/media/pngtree-luggage-clipart-set-of-cartoon-suitcases-with-wheels-vector-png-image_11069105.32cc7b92209521e4ccb4.png",
+    "static/media/6823821.png": "/travel-list/static/media/6823821.edbdfffcc6cd47bcc1c6.png",
+    "static/media/island-600nw-313011086.webp": "/travel-list/static/media/island-600nw-313011086.db6c99553edb0f2daeb5.webp",
+    "static/media/blank-packaging-boxes-open-mockup-isolated-on-white-background-photo.jpg": "/travel-list/static/media/blank-packaging-boxes-open-mockup-isolated-on-white-background-photo.f32530bbf955dfda7cfe.jpg",
+    "static/media/3588294.png": "/travel-list/static/media/3588294.590448773d51039d4676.png",
+    "index.html": "/travel-list/index.html",
+    "main.d096840c.css.map": "/travel-list/static/css/main.d096840c.css.map",
+    "main.e4969543.js.map": "/travel-list/static/js/main.e4969543.js.map",
+    "453.634db10d.chunk.js.map": "/travel-list/static/js/453.634db10d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d096840c.css",
+    "static/js/main.e4969543.js"
+  ]
+}
